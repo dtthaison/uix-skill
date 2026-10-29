@@ -1,0 +1,177 @@
+{
+ "attributes": {
+  "accessibilityText": "",
+  "title": "",
+  "value": "",
+  "text": "",
+  "hintText": "",
+  "resource-id": "",
+  "bounds": "[0,0][0,0]",
+  "enabled": "false",
+  "focused": "false",
+  "selected": "false",
+  "checked": "false"
+ },
+ "children": [
+  {
+   "attributes": {
+    "accessibilityText": "Yuri Handmade",
+    "title": "",
+    "value": "",
+    "text": "",
+    "hintText": "",
+    "resource-id": "",
+    "bounds": "[0,0][402,874]",
+    "enabled": "true",
+    "focused": "false",
+    "selected": "false",
+    "checked": "false"
+   },
+   "children": [
+    {
+     "attributes": {
+      "accessibilityText": "Len Milk Cotton 50g",
+      "title": "",
+      "value": "",
+      "text": "",
+      "hintText": "",
+      "resource-id": "",
+      "bounds": "[16,502][268,534]",
+      "enabled": "true",
+      "focused": "false",
+      "selected": "false",
+      "checked": "false"
+     },
+     "children": [],
+     "enabled": true,
+     "focused": false,
+     "checked": false,
+     "selected": false
+    },
+    {
+     "attributes": {
+      "accessibilityText": "Selected",
+      "title": "",
+      "value": "",
+      "text": "",
+      "hintText": "",
+      "resource-id": "checkmark.circle",
+      "bounds": "[17,712][31,726]",
+      "enabled": "true",
+      "focused": "false",
+      "selected": "true",
+      "checked": "false"
+     },
+     "children": [],
+     "enabled": true,
+     "focused": false,
+     "checked": false,
+     "selected": true
+    },
+    {
+     "attributes": {
+      "accessibilityText": "Thêm vào giỏ",
+      "title": "",
+      "value": "",
+      "text": "",
+      "hintText": "",
+      "resource-id": "",
+      "bounds": "[16,780][386,832]",
+      "enabled": "true",
+      "focused": "false",
+      "selected": "false",
+      "checked": "false"
+     },
+     "children": [
+      {
+       "attributes": {
+        "accessibilityText": "Add To Shopping Bag",
+        "title": "",
+        "value": "",
+        "text": "",
+        "hintText": "",
+        "resource-id": "bag.badge.plus",
+        "bounds": "[140,798][156,814]",
+        "enabled": "true",
+        "focused": "false",
+        "selected": "false",
+        "checked": "false"
+       },
+       "children": [],
+       "enabled": true,
+       "focused": false,
+       "checked": false,
+       "selected": false
+      },
+      {
+       "attributes": {
+        "accessibilityText": "Thêm vào giỏ",
+        "title": "",
+        "value": "",
+        "text": "",
+        "hintText": "",
+        "resource-id": "",
+        "bounds": "[166,797][259,815]",
+        "enabled": "true",
+        "focused": "false",
+        "selected": "false",
+        "checked": "false"
+       },
+       "children": [],
+       "enabled": true,
+       "focused": false,
+       "checked": false,
+       "selected": false
+      }
+     ],
+     "enabled": true,
+     "focused": false,
+     "checked": false,
+     "selected": false
+    },
+    {
+     "_synthetic": true,
+     "attributes": {
+      "accessibilityText": "",
+      "title": "",
+      "value": "",
+      "text": "",
+      "hintText": "",
+      "resource-id": "",
+      "bounds": "[20,300][50,330]",
+      "enabled": "true",
+      "focused": "false",
+      "selected": "false",
+      "checked": "false"
+     },
+     "children": []
+    },
+    {
+     "_synthetic": true,
+     "attributes": {
+      "accessibilityText": "",
+      "title": "",
+      "value": "",
+      "text": "",
+      "hintText": "",
+      "resource-id": "star",
+      "bounds": "[60,300][84,324]",
+      "enabled": "true",
+      "focused": "false",
+      "selected": "false",
+      "checked": "false"
+     },
+     "children": []
+    }
+   ],
+   "enabled": true,
+   "focused": false,
+   "checked": false,
+   "selected": false
+  }
+ ],
+ "enabled": false,
+ "focused": false,
+ "checked": false,
+ "selected": false
+}

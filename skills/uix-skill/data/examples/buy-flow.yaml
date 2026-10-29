@@ -1,0 +1,57 @@
+# Generic buy flow for check-mobile --flow. Replace the ids and the port with the app's own.
+# Every id is a testID in the app; Maestro reads testID as id.
+appId: host.exp.Exponent
+---
+# The app reads `reset` behind __DEV__ and empties the bag, so the flow does not depend on leftover state.
+# The param arrives only when the app is already running (check-mobile opens the root first); a flow started by hand on a cold Expo Go loses it.
+- openLink: exp://127.0.0.1:8081/--/?reset=1
+# The first cold start in Expo Go is slow (first bundle), so wait up to 90 s.
+- extendedWaitUntil:
+    visible:
+      id: "home-screen"
+    timeout: 90000
+- scrollUntilVisible:
+    element:
+      id: "product-card-.*"
+    direction: DOWN
+    timeout: 60000
+- tapOn:
+    id: "product-card-.*"
+- extendedWaitUntil:
+    visible:
+      id: "product-title"
+    timeout: 60000
+# Bring the variant clear of the sticky bar before tapping: the bar would take the tap.
+- scrollUntilVisible:
+    element:
+      id: "variant-option-2"
+    direction: DOWN
+    timeout: 20000
+    centerElement: true
+- tapOn:
+    id: "variant-option-2"
+- assertVisible:
+    id: "variant-option-2"
+    selected: true
+- tapOn:
+    id: "add-to-bag"
+- assertVisible:
+    id: "toast-view-bag"
+# A pushed product page has no tab bar, so open the bag from the confirmation's "View bag" action.
+- tapOn:
+    id: "toast-view-bag"
+- extendedWaitUntil:
+    visible:
+      id: "bag-row-1"
+    timeout: 30000
+- swipe:
+    from:
+      id: "bag-row-1"
+    direction: LEFT
+# skip this tap if your swipe removes the row
+- tapOn:
+    id: "bag-row-remove"
+- extendedWaitUntil:
+    visible:
+      id: "bag-empty"
+    timeout: 15000

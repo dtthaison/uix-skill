@@ -1,0 +1,242 @@
+{
+  "result_count": 2,
+  "page_count": 120,
+  "page_size": 2,
+  "page": 1,
+  "results": [
+    {
+      "id": "b9b20df3-9f5f-477a-a999-71f9ba6ab725",
+      "title": "'Lithgow Pottery and Brickworks'",
+      "indexed_on": "2020-03-29T00:29:36.341350Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/26602074@N06/17224083573",
+      "url": "https://live.staticflickr.com/5456/17224083573_b8f4e3ec1b_b.jpg",
+      "creator": "Blue Mountains Library, Local Studies",
+      "creator_url": "https://www.flickr.com/photos/26602074@N06",
+      "license": "by-sa",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "bricks",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "brickworks",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "brickyards",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "ceramicindustry",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "chimneys",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "chimneystacks",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "fences",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "furnaces",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "hats",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "history",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "industrialsites",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "kilns",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "landscapes",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "lithgow",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "men",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "nsw",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "pipefactories",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "pipes",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "postandrail",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "potteries",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "pottery",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "stumps",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "suits",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "top",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "toppers",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "trees",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "walkingstick",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        }
+      ],
+      "attribution": "\"'Lithgow Pottery and Brickworks'\" by Blue Mountains Library, Local Studies is licensed under CC BY-SA 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 683,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/b9b20df3-9f5f-477a-a999-71f9ba6ab725/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/b9b20df3-9f5f-477a-a999-71f9ba6ab725/",
+      "related_url": "https://api.openverse.org/v1/images/b9b20df3-9f5f-477a-a999-71f9ba6ab725/related/",
+      "unstable__sensitivity": []
+    },
+    {
+      "id": "23efc102-68e9-4bc5-a5ef-8aa275622d40",
+      "title": "Kid's Pottery",
+      "indexed_on": "2020-04-15T19:35:26.695037Z",
+      "foreign_landing_url": "https://www.flickr.com/photos/78428166@N00/5449222257",
+      "url": "https://live.staticflickr.com/5171/5449222257_8fc509cab2_b.jpg",
+      "creator": "Tobyotter",
+      "creator_url": "https://www.flickr.com/photos/78428166@N00",
+      "license": "by",
+      "license_version": "2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0/",
+      "provider": "flickr",
+      "source": "flickr",
+      "category": null,
+      "filesize": null,
+      "filetype": null,
+      "tags": [
+        {
+          "name": "clay",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "frog",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "kidsart",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "pfac",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "pottery",
+          "accuracy": null,
+          "unstable__provider": "flickr"
+        },
+        {
+          "name": "food",
+          "accuracy": 0.92694,
+          "unstable__provider": "clarifai"
+        },
+        {
+          "name": "people",
+          "accuracy": 0.95614,
+          "unstable__provider": "clarifai"
+        }
+      ],
+      "attribution": "\"Kid's Pottery\" by Tobyotter is licensed under CC BY 2.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/2.0/.",
+      "fields_matched": [
+        "description",
+        "title",
+        "tags.name"
+      ],
+      "mature": false,
+      "height": 768,
+      "width": 1024,
+      "thumbnail": "https://api.openverse.org/v1/images/23efc102-68e9-4bc5-a5ef-8aa275622d40/thumb/",
+      "detail_url": "https://api.openverse.org/v1/images/23efc102-68e9-4bc5-a5ef-8aa275622d40/",
+      "related_url": "https://api.openverse.org/v1/images/23efc102-68e9-4bc5-a5ef-8aa275622d40/related/",
+      "unstable__sensitivity": []
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+[
+  { "name": "home", "path": "/" },
+  { "name": "shop-filters", "path": "/shop?sheet=filters" }
+]

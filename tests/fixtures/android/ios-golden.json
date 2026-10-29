@@ -1,0 +1,196 @@
+{
+ "mobile/hierarchy-empty.json|native=false": [],
+ "mobile/hierarchy-empty.json|native=true": [],
+ "mobile/hierarchy-redbox.json|native=false": [
+  {
+   "rule": "app-error",
+   "severity": "error",
+   "route": "/r",
+   "message": "Render Error: uix spike boom"
+  }
+ ],
+ "mobile/hierarchy-redbox.json|native=true": [
+  {
+   "rule": "app-error",
+   "severity": "error",
+   "route": "/r",
+   "message": "Render Error: uix spike boom"
+  }
+ ],
+ "mobile/hierarchy-sample.json|native=false": [
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 30x30 pt is under 44x44 (unlabelled).",
+   "route": "/r",
+   "bounds": "[24,141][54,171]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "warn",
+   "message": "Interactive element 30x30 pt has no text or accessibility label (lower confidence: may be decorative)",
+   "route": "/r",
+   "bounds": "[24,141][54,171]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 30x30 pt is under 44x44 (Close dialog).",
+   "route": "/r",
+   "bounds": "[24,187][54,217]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 354x37 pt is under 44x44 (Go).",
+   "route": "/r",
+   "bounds": "[24,362][378,399]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 30x30 pt is under 44x44 (unlabelled).",
+   "route": "/r",
+   "bounds": "[24,461][54,491]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "warn",
+   "message": "Interactive element 30x30 pt has no text or accessibility label (lower confidence: may be decorative)",
+   "route": "/r",
+   "bounds": "[24,461][54,491]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "error",
+   "message": "Switch 63x28 pt has no accessibility label.",
+   "route": "/r",
+   "bounds": "[24,587][87,615]"
+  }
+ ],
+ "mobile/hierarchy-sample.json|native=true": [
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 30x30 pt is under 44x44 (unlabelled).",
+   "route": "/r",
+   "bounds": "[24,141][54,171]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "warn",
+   "message": "Interactive element 30x30 pt has no text or accessibility label (lower confidence: may be decorative)",
+   "route": "/r",
+   "bounds": "[24,141][54,171]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 30x30 pt is under 44x44 (unlabelled).",
+   "route": "/r",
+   "bounds": "[24,461][54,491]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "warn",
+   "message": "Interactive element 30x30 pt has no text or accessibility label (lower confidence: may be decorative)",
+   "route": "/r",
+   "bounds": "[24,461][54,491]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "error",
+   "message": "Switch 63x28 pt has no accessibility label.",
+   "route": "/r",
+   "bounds": "[24,587][87,615]"
+  }
+ ],
+ "hierarchy-swiftui.json|native=false": [
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 252x32 pt is under 44x44 (Len Milk Cotton 50g).",
+   "route": "/r",
+   "bounds": "[16,502][268,534]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 14x14 pt is under 44x44 (Selected).",
+   "route": "/r",
+   "bounds": "[17,712][31,726]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 16x16 pt is under 44x44 (Add To Shopping Bag).",
+   "route": "/r",
+   "bounds": "[140,798][156,814]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 30x30 pt is under 44x44 (unlabelled).",
+   "route": "/r",
+   "bounds": "[20,300][50,330]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "warn",
+   "message": "Interactive element 30x30 pt has no text or accessibility label (lower confidence: may be decorative)",
+   "route": "/r",
+   "bounds": "[20,300][50,330]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 24x24 pt is under 44x44 (unlabelled).",
+   "route": "/r",
+   "bounds": "[60,300][84,324]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "warn",
+   "message": "Interactive element 24x24 pt has no text or accessibility label (lower confidence: may be decorative)",
+   "route": "/r",
+   "bounds": "[60,300][84,324]"
+  }
+ ],
+ "hierarchy-swiftui.json|native=true": [
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 14x14 pt is under 44x44 (Selected).",
+   "route": "/r",
+   "bounds": "[17,712][31,726]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 30x30 pt is under 44x44 (unlabelled).",
+   "route": "/r",
+   "bounds": "[20,300][50,330]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "warn",
+   "message": "Interactive element 30x30 pt has no text or accessibility label (lower confidence: may be decorative)",
+   "route": "/r",
+   "bounds": "[20,300][50,330]"
+  },
+  {
+   "rule": "small-target",
+   "severity": "warn",
+   "message": "Touch target 24x24 pt is under 44x44 (unlabelled).",
+   "route": "/r",
+   "bounds": "[60,300][84,324]"
+  },
+  {
+   "rule": "missing-label",
+   "severity": "warn",
+   "message": "Interactive element 24x24 pt has no text or accessibility label (lower confidence: may be decorative)",
+   "route": "/r",
+   "bounds": "[60,300][84,324]"
+  }
+ ]
+}

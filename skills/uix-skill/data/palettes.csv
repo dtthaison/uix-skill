@@ -1,0 +1,76 @@
+id,product_type,mood,bg,surface,text,muted,accent,accent_text,border,notes
+fintech-ledger-green,fintech,trustworthy and exact,#F3F6F3,#FFFFFF,#13201B,#4A5A53,#0B6B4F,#FFFFFF,#D3DBD6,Deep ledger green on cool paper; use the accent only for primary actions and positive deltas
+fintech-vault-brass,fintech,private and premium,#0D1512,#15211C,#E7EEEA,#9CB0A6,#D9A441,#1A1405,#25362F,Dark green-black with brass; reserve brass for balances and the main call to action
+banking-slate-coral,banking,calm with one warm signal,#F2F4F7,#FFFFFF,#18202B,#505C6B,#C2410C,#FFFFFF,#D6DCE4,Coral-orange marks alerts and transfers; everything else stays slate
+insurance-harbor,insurance,reassuring and plain,#F1F5F6,#FFFFFF,#102A33,#476069,#0E7490,#FFFFFF,#CBDADF,Harbor teal with a deep blue-green ink; works for forms-heavy flows
+crypto-obsidian-gold,crypto,serious and nocturnal,#12100E,#1C1916,#EFE9DF,#B0A697,#E3A72F,#1B1303,#322D26,Warm obsidian with amber; avoids the neon trading-app look
+devtool-graphite-amber,dev tools,focused and tactile,#17181B,#1F2126,#E8E6E1,#A3A7AE,#FF9F43,#1B1004,#33363D,Editor-style graphite with a single amber cursor color
+devtool-chalk-teal,dev tools,clean daylight editor,#EEF1F4,#FFFFFF,#161B22,#4B5563,#0F766E,#FFFFFF,#D0D6DE,Light theme for docs and consoles; teal for links and focus rings
+devtool-moss-terminal,dev tools,hacker-lab but readable,#101512,#171E19,#DCE8DF,#95AA9C,#E8C547,#1D1700,#2A362E,Moss-black terminal with a yellow highlighter accent; no neon green
+cli-ink-rose,developer docs,editorial and precise,#FAF9F9,#FFFFFF,#1D1A1C,#5E5659,#BE185D,#FFFFFF,#E3DDDF,Docs palette with a rose accent for code callouts and anchors
+saas-dash-fog,saas dashboard,neutral and efficient,#F5F6F8,#FFFFFF,#1B1F27,#555E6D,#2563EB,#FFFFFF,#DADEE5,Fog gray canvas; saturated blue only on selected states and primary buttons
+saas-dash-night,saas dashboard,dense dark workspace,#101319,#171B23,#E5E9F0,#9BA5B5,#38BDF8,#04202E,#262C38,Dark data-dense UI; sky accent for selection and chart one
+analytics-sand-ink,analytics,quiet and legible,#F6F4EF,#FFFFFF,#1F1D1A,#5A564E,#9A3412,#FFFFFF,#DDD8CD,Sand neutral with rust for the metric that needs attention
+analytics-deep-teal,analytics,dark and calm,#0B1A1E,#122429,#E3F0F1,#93B0B4,#F59E0B,#1F1300,#1F3A40,Deep teal-black with amber highlights for anomalies
+health-clinic-mint,health,gentle and clinical,#F2F8F6,#FFFFFF,#12302B,#476862,#0F766E,#FFFFFF,#CFE2DE,Mint-white clinic with deep teal ink; avoids hospital blue
+medical-records-slate,medical records,sober and dense,#F4F5F7,#FFFFFF,#1A2230,#566073,#1D4ED8,#FFFFFF,#D8DCE3,Records UI where status colors need room; accent kept to one blue
+meditation-dusk-sage,meditation,hushed and soft yet readable,#EDF1EC,#F8FAF7,#25302A,#566359,#4D6B52,#FFFFFF,#CCD6CC,Sage family with strong ink; no gradients needed
+meditation-night-fig,meditation,evening wind-down,#1A1416,#241C1F,#F0E6E8,#BFA9AE,#E9A4B0,#2A1015,#3A2C30,Fig-brown night mode with petal pink; low glare for bedtime use
+fitness-track-lime,fitness,energetic and athletic,#F7F8F2,#FFFFFF,#1B2410,#505A3C,#3F6212,#FFFFFF,#DADFC9,Olive-lime on chalk; accent is dark enough for white label text
+fitness-court-night,fitness,high energy dark,#14120F,#1E1B17,#F3EEE6,#B7AEA1,#FB7185,#2B0710,#35302A,Warm black with a hot coral for streaks and rings
+education-notebook-blue,education,friendly and organized,#F4F7FB,#FFFFFF,#14233B,#4C5C75,#1D4ED8,#FFFFFF,#D3DCEA,Notebook paper blue; progress bars use the accent
+education-chalkboard,education,classroom dark,#18241F,#203029,#EEF2EA,#A9BAAF,#F2C94C,#1C1600,#2F4339,Chalkboard green with chalk yellow; use for lesson and quiz views
+kids-gumdrop,kids,playful and bright,#FFF7E8,#FFFFFF,#2B1B3D,#5F4A74,#C2410C,#FFFFFF,#F1DFC0,Candy orange on custard; ink is deep plum for readability
+kids-pool-party,kids,splashy and clear,#EAF8FB,#FFFFFF,#0B3140,#3E6475,#E11D74,#FFFFFF,#BFE3EC,Pool aqua with raspberry buttons; large type keeps it legible
+ecom-linen-market,e-commerce,warm retail with real contrast,#F7F5F2,#FFFFFF,#201C18,#5C554D,#B91C1C,#FFFFFF,#E2DDD6,Neutral stage so product photos lead; red limited to sale and cart
+ecom-flash-night,e-commerce,drop-day urgency,#111111,#1B1B1B,#F5F2EC,#B5B0A6,#FFD23F,#1A1500,#333333,Neutral black with a yellow price tag accent
+marketplace-bluegrass,marketplace,trustworthy and busy,#F3F7F4,#FFFFFF,#14261C,#4A6154,#15803D,#FFFFFF,#D0DDD3,Grassy green for trust badges and confirmed states
+fashion-paper-oxblood,fashion,editorial and sharp,#F6F3F1,#FFFFFF,#1C1517,#5D5053,#7F1D2D,#FFFFFF,#DCD3D5,Oxblood on warm gray; imagery carries the color
+fashion-runway-mono,fashion,stark and gallery-like,#EDEDED,#F9F9F9,#171717,#525252,#C026D3,#FFFFFF,#CFCFCF,Light gray frame with a single magenta stamp; keep it tiny
+luxury-ivory-bronze,luxury,quiet and expensive,#F5F2EC,#FFFFFF,#231E18,#625A4F,#7A5C2E,#FFFFFF,#DDD5C8,Ivory and bronze; no gold gradients
+luxury-noir-champagne,luxury,evening and exclusive,#121110,#1B1A18,#EFE8DA,#B3AA99,#D8C08A,#1F1707,#34312B,Soft black with champagne for hairlines and headings
+beauty-bloom-berry,beauty,soft and confident,#FBF4F5,#FFFFFF,#2A1519,#69474E,#A31D4A,#FFFFFF,#EBD9DD,Blush field with berry actions
+food-market-tomato,food,appetizing and lively,#FBF6EF,#FFFFFF,#2B1A12,#68503F,#B42318,#FFFFFF,#EAD9C6,Tomato red on a pantry neutral; works for menus and delivery
+food-harvest-olive,food,farm to table,#F4F5EC,#FFFFFF,#252A14,#5A6040,#556B1B,#FFFFFF,#D9DCC4,Olive green ink and accent for grocery and recipe sites
+restaurant-candle,restaurant,intimate dining,#17110F,#221915,#F2E8DC,#BBA999,#E07A5F,#210B05,#3A2D26,Candlelit brown-black with ember orange; dark mode for reservations
+coffee-roaster-bean,cafe,craft and grounded,#F1ECE6,#FBF8F4,#2A1F19,#665548,#5B3A29,#FFFFFF,#D8CEC3,Roast-brown; use for small shops with photo-led menus
+travel-lagoon,travel,open and sunlit,#EFF8F7,#FFFFFF,#0B3434,#3F6A6A,#0E7C86,#FFFFFF,#C4E2E1,Lagoon green-blue for booking steps
+travel-dusk-ember,travel,golden-hour storytelling,#1B1512,#261D19,#F6EBDD,#C0AC98,#F08A4B,#241005,#3C2F27,Dark travel journal with an ember accent
+hospitality-hotel-pine,hotel booking,refined and welcoming,#F3F5F1,#FFFFFF,#16251D,#4F6055,#1F5F46,#FFFFFF,#D4DBD2,Pine green for a boutique feel
+government-civic-navy,government,plain and accessible,#F5F6F8,#FFFFFF,#0F1E36,#4A566B,#12408F,#FFFFFF,#CBD2DD,High contrast civic blue with generous focus outlines
+government-service-green,government,approachable public service,#F4F7F4,#FFFFFF,#102416,#475C4C,#166534,#FFFFFF,#D0DBD2,For benefits and permits flows; error states use a separate red
+legal-chambers,legal,formal and steady,#F6F5F3,#FFFFFF,#1F2430,#555A66,#7C2D12,#FFFFFF,#DAD8D3,Chamber gray with leather-brown accent
+nonprofit-hearth,nonprofit,human and hopeful,#FBF5F0,#FFFFFF,#2E1B14,#6A4D40,#C2410C,#FFFFFF,#EBDCCF,Hearth orange for donate buttons; photos do the warmth
+sustainability-canopy,energy and climate,evidence-led and optimistic,#EEF5EF,#FFFFFF,#0F2A1C,#44604E,#15803D,#FFFFFF,#CAD9CE,Canopy green with deep forest ink for reports
+sustainability-solar,energy and climate,bright data story,#FFFBEB,#FFFFFF,#2A2005,#6B5A1A,#A16207,#FFFFFF,#EFE3B8,Solar yellow field; accent is dark amber so text stays readable
+editorial-broadsheet,editorial,classic newsprint,#F7F6F2,#FFFFFF,#1A1A1A,#58564F,#B3261E,#FFFFFF,#DAD7CE,Newsprint with a single red for kickers and links
+news-wire-night,news,late-edition reading,#14161A,#1D2026,#ECEAE4,#AEB1B8,#F2B84B,#201600,#30343C,Dark reading mode with amber links
+magazine-citrus-ink,magazine,loud but tidy,#FFFDF5,#FFFFFF,#18181B,#52525B,#EA580C,#1A0A00,#E7E3D3,Citrus orange headline accents on warm white with black-ink body
+blog-quiet-plum,blog,personal and bookish,#F8F5F8,#FFFFFF,#251A27,#65546A,#86198F,#FFFFFF,#E3D9E5,Plum-and-gray palette for essays; accent stays on links only
+podcast-studio-red,podcast,broadcast booth,#16120F,#211B17,#F4EEE8,#B8AEA4,#EF4444,#1D0505,#392F28,Studio dark with an on-air red used only for record and live states
+music-vinyl-orange,music,warm analog listening,#1A1613,#241F1B,#F5EBDD,#BFB0A0,#F97316,#1C0B00,#3A332D,Charcoal-brown with a vinyl-label orange
+streaming-cinema-wine,streaming,dim theater,#130E10,#1D1619,#F2E9EB,#B8A7AB,#E5484D,#220406,#35292D,Wine-black cinema mode; red only on play and live
+games-arcade-teal,games,bold and graphic,#10201F,#173130,#E9F7F4,#9DC4BE,#FF7A59,#240A03,#254847,Deep teal field with orange pickups; good for HUD panels
+games-parchment-quest,games,fantasy tabletop,#EFE6D2,#F8F1E1,#2B2013,#65563A,#8C2F1B,#FFFFFF,#D6C7A4,Parchment with wax-red seals; for lore and inventory screens
+social-pebble,social,friendly feed,#F5F5F3,#FFFFFF,#1F2326,#576066,#C02660,#FFFFFF,#DEDFDB,Neutral feed so user content pops; pink for likes only
+productivity-paper-blue,productivity,calm task focus,#F7F8FA,#FFFFFF,#1C2433,#586277,#3B6BD6,#FFFFFF,#DCE0E8,Soft paper white with periwinkle-blue actions
+productivity-focus-dark,productivity,deep-work night,#15171C,#1D2027,#E6E8EC,#A0A6B2,#F0A35E,#1E1003,#2B2F38,Charcoal with a tangerine focus marker
+ai-assistant-pearl,ai assistant,open and unfussy,#F6F7F7,#FFFFFF,#1A1D1F,#585E62,#0D7A6C,#FFFFFF,#DADDDE,Neutral pearl with a teal accent; no sparkle gradients
+ai-assistant-ink,ai assistant,dark conversation,#111315,#1A1D20,#E9ECEE,#A2A9AE,#6EC6B8,#0A1F1B,#2A2F34,Graphite chat surface with a seafoam reply accent
+cybersecurity-watch,cybersecurity,vigilant and exact,#0C1114,#131A1E,#DDE7EA,#93A5AB,#FF6B4A,#260A04,#223038,Threat console with signal orange for severity
+cybersecurity-daylight,cybersecurity,analyst light mode,#F2F4F5,#FFFFFF,#15202A,#516070,#B42318,#FFFFFF,#D3D9DD,Light console; red limited to critical findings
+logistics-dispatch,logistics,operational and clear,#F4F5F2,#FFFFFF,#1D2217,#555D49,#B45309,#FFFFFF,#D9DCD0,Warehouse beige-gray with safety amber-brown
+automotive-showroom,automotive,precise and powerful,#EDEEF0,#FAFAFB,#14161A,#4F545C,#C8102E,#FFFFFF,#CED1D6,Showroom gray with racing red for the configure button
+automotive-garage-night,automotive,dashboard glow,#101214,#181B1E,#E8EAEC,#A1A7AD,#F5A524,#1D1200,#2A2E32,Instrument-cluster dark with amber telltale
+real-estate-brick,real estate,grounded and credible,#F6F4F1,#FFFFFF,#231D1B,#625853,#9F3A24,#FFFFFF,#DFD8D2,Brick red on warm gray; listing photos set the mood
+architecture-concrete,architecture,raw and measured,#E4E4E1,#F3F3F1,#1B1B1A,#4A4A47,#B85C00,#FFFFFF,#C7C7C2,Concrete gray with one oxidized orange marker
+museum-gallery-wall,museum,neutral frame for art,#F2F2F0,#FFFFFF,#1C1C1C,#565654,#1F6F5C,#FFFFFF,#D6D6D3,Gallery white-gray; accent is a muted verdigris
+portfolio-photographer,portfolio,print-room dark,#141414,#1D1D1D,#EDEDED,#A6A6A6,#E6B450,#1E1500,#303030,Neutral dark so photos keep true color; amber for navigation
+agency-risograph,creative agency,punchy and printed,#F6F1E7,#FFFFFF,#1E1B2E,#5A5668,#E4572E,#1A0802,#DDD4C0,Riso orange-red against ink navy-violet; use sparingly on type
+telecom-signal,telecom,confident and clear,#F3F6FA,#FFFFFF,#0E2038,#485970,#0B6EC7,#FFFFFF,#D0D9E5,Signal blue with strong ink; for plan comparison tables
+weather-front,weather,atmospheric and glanceable,#E8EFF3,#F7FAFB,#10252F,#44606C,#C2410C,#FFFFFF,#C5D3DA,Sky-gray field; warm accent flags warnings and heat
+weather-storm-night,weather,radar dark,#0E1417,#151D21,#E2ECEF,#97AAB1,#FACC15,#1F1A00,#243138,Radar-room dark; yellow for severe-weather callouts
+hr-people-ops,hr software,warm professional,#F7F5F4,#FFFFFF,#231C1E,#5F5457,#0F766E,#FFFFFF,#E0D9DB,Warm neutral with teal; avoids corporate blue
+events-ticket-stub,events,festive and clear,#FFF6F0,#FFFFFF,#2A1410,#6B4338,#C2255C,#FFFFFF,#F0DCCF,Ticket-stub pink-red for countdowns and buy buttons
+pets-clay-sage,pets,kind and homely,#F5F3EE,#FFFFFF,#28231D,#62594C,#4F7A5A,#FFFFFF,#DDD7CA,Clay and sage; accent is a mid green so keep body text in the dark ink
+enterprise-b2b-steel,enterprise b2b,restrained and credible,#F2F4F6,#FFFFFF,#16202B,#505C6A,#0F5C8C,#FFFFFF,#D2D8DF,Steel blue for procurement-friendly SaaS marketing

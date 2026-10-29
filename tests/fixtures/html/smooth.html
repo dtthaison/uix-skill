@@ -1,0 +1,3 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>t</title><style>html{scroll-behavior:smooth}body{margin:0;font:16px sans-serif;color:#111;background:#fff}.block{height:20000px}#y{color:#111}#y.moved{color:#ccc}</style></head>
+<body><main><h1>Smooth</h1><p id="y">scroll position</p><div class="block"></div></main>
+<script>(function f(){document.getElementById('y').classList.toggle('moved',scrollY!==0);requestAnimationFrame(f)})();</script></body></html>

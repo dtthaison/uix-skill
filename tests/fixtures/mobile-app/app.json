@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "UIX Mobile Fixture",
+    "slug": "uix-mobile-fixture",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "platforms": ["ios"]
+  }
+}

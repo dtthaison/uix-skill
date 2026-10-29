@@ -1,0 +1,61 @@
+id,display,body,mono,mood,use,source,scripts
+fraunces-public-sans,Fraunces,Public Sans,IBM Plex Mono,warm editorial with soft serifs,magazines and long-form marketing,google,latin;latin-ext;vietnamese
+newsreader-work-sans,Newsreader,Work Sans,JetBrains Mono,bookish and modern,essays and publications,google,latin;latin-ext;vietnamese
+playfair-source-sans,Playfair Display,Source Sans 3,,high-contrast fashion serif,fashion and luxury landing pages,google,latin;latin-ext;vietnamese;cyrillic
+bricolage-instrument,Bricolage Grotesque,Instrument Sans,Geist Mono,quirky yet usable,startup sites with personality,google,latin;latin-ext
+dmserif-dmsans,DM Serif Display,DM Sans,DM Mono,friendly classic,consumer apps and brand sites,google,latin;latin-ext
+syne-manrope,Syne,Manrope,Fira Code,experimental and wide,creative agency and portfolio,google,latin;latin-ext;greek
+space-mono-ibm-plex,Space Mono,IBM Plex Sans,Space Mono,retro-technical,dev tools and hacker-culture products,google,latin;latin-ext;vietnamese
+plex-family,IBM Plex Serif,IBM Plex Sans,IBM Plex Mono,engineered and consistent,enterprise docs and data-heavy product UI,google,latin;latin-ext;vietnamese;cyrillic;cyrillic-ext
+sora-nunito-sans,Sora,Nunito Sans,Source Code Pro,rounded and optimistic,health and wellness apps,google,latin;latin-ext
+outfit-karla,Outfit,Karla,,geometric and light,landing pages and small SaaS,google,latin;latin-ext
+lexend-atkinson,Lexend,Atkinson Hyperlegible,,highly readable,education and accessibility-first products,google,latin;latin-ext
+atkinson-literata,Atkinson Hyperlegible,Literata,,clear and bookish,government and reading tools,google,latin;latin-ext
+literata-onest,Literata,Onest,,calm reading,long articles and knowledge bases,google,latin;latin-ext;vietnamese;cyrillic;cyrillic-ext
+crimson-figtree,Crimson Pro,Figtree,,scholarly but friendly,education and publishing,google,latin;latin-ext
+cormorant-jost,Cormorant Garamond,Jost,,elegant and airy,luxury hospitality and boutique brands,google,latin;latin-ext;cyrillic
+libre-baskerville-lato,Libre Baskerville,Lato,,traditional trustworthy,legal and finance,google,latin;latin-ext
+spectral-hanken,Spectral,Hanken Grotesk,,refined editorial,cultural institutions and journals,google,latin;latin-ext;vietnamese;cyrillic-ext
+young-serif-outfit,Young Serif,Outfit,,sturdy and warm,food and craft brands,google,latin;latin-ext
+gloock-albert,Gloock,Albert Sans,,heavy display serif,bold editorial headlines,google,latin;latin-ext
+unbounded-lexend,Unbounded,Lexend,,wide and futuristic,games and web3 landing pages,google,latin;latin-ext;vietnamese
+bungee-barlow,Bungee,Barlow,,signage and street,events and sports,google,latin;latin-ext;vietnamese
+barlow-condensed-barlow,Barlow Condensed,Barlow,,industrial and compact,logistics and automotive dashboards,google,latin;latin-ext;vietnamese
+oswald-source-serif,Oswald,Source Serif 4,,newsroom tall caps,news and sports media,google,latin;latin-ext;vietnamese;cyrillic;cyrillic-ext
+archivo-narrow-archivo,Archivo Narrow,Archivo,JetBrains Mono,efficient and dense,data tables and admin tools,google,latin;latin-ext;vietnamese
+big-shoulders-hind,Big Shoulders,Hind,,poster-like condensed,sports and civic campaigns,google,latin;latin-ext
+fredoka-nunito,Fredoka,Nunito,,round and playful,kids apps and games,google,latin;latin-ext
+baloo-quicksand,Baloo 2,Quicksand,,bouncy and soft,children's learning,google,latin;latin-ext;vietnamese
+patrick-hand-andika,Patrick Hand,Andika,,hand-drawn and approachable,kids and early literacy,google,latin;latin-ext;vietnamese
+caveat-karla,Caveat,Karla,,handwritten notes,annotations and journaling accents,google,latin;latin-ext
+dmserif-text-instrument,DM Serif Text,Instrument Sans,,compact elegance,boutique ecommerce,google,latin;latin-ext
+rethink-sans-duo,Rethink Sans,Rethink Sans,,single-family clarity,product marketing and dashboards,google,latin;latin-ext
+plus-jakarta-pair,Plus Jakarta Sans,Plus Jakarta Sans,Roboto Mono,contemporary and crisp,fintech and SaaS,google,latin;latin-ext;vietnamese;cyrillic-ext
+geist-geist,Geist,Geist,Geist Mono,modern engineering,developer tools and docs,google,latin;latin-ext;vietnamese;cyrillic;cyrillic-ext
+hanken-fira,Hanken Grotesk,Hanken Grotesk,Fira Mono,neutral and smart,B2B product sites,google,latin;latin-ext;vietnamese;cyrillic-ext
+red-hat-pair,Red Hat Display,Red Hat Text,Red Hat Mono,open-source corporate,platform and cloud products,google,latin;latin-ext
+commissioner-sans,Commissioner,Commissioner,,flexible humanist,civic services and nonprofits,google,latin;latin-ext;vietnamese;cyrillic;cyrillic-ext;greek
+epilogue-sans,Epilogue,Chivo,,sharp and slightly editorial,creative tools and media,google,latin;latin-ext;vietnamese
+chivo-mono-chivo,Chivo,Chivo Mono,Chivo Mono,grotesque with technical edge,analytics and reports,google,latin;latin-ext;vietnamese
+schibsted-pair,Schibsted Grotesk,Schibsted Grotesk,,newsroom grotesque,news apps and community sites,google,latin;latin-ext
+bitter-lato,Bitter,Lato,,slab sturdy,blogs and documentation,google,latin;latin-ext
+zilla-slab-public,Zilla Slab,Public Sans,,typewriter-friendly slab,civic and community sites,google,latin;latin-ext
+arvo-mulish,Arvo,Mulish,,chunky slab,craft goods and local retail,google,latin
+anton-pt-sans,Anton,PT Sans,,tall poster headline,campaigns and event posters,google,latin;latin-ext
+abril-nunito,Abril Fatface,Nunito Sans,,fat fashion didone,magazine covers and lookbooks,google,latin;latin-ext
+yeseva-poppins,Yeseva One,Poppins,,romantic display,beauty and weddings,google,latin;latin-ext
+rubik-karla,Rubik,Karla,,soft-cornered friendly,consumer utilities,google,latin;latin-ext
+familjen-hanken,Familjen Grotesk,Hanken Grotesk,,quirky grotesque,tech media and newsletters,google,latin;latin-ext;vietnamese
+dela-gothic-zen,Dela Gothic One,Zen Kaku Gothic New,,loud Japanese-inspired,music and youth culture,google,latin;latin-ext;cyrillic
+shippori-noto,Shippori Mincho,Noto Sans JP,,calm Japanese serif,Japanese cultural and wellness sites,google,latin;latin-ext
+noto-serif-noto-sans,Noto Serif,Noto Sans,Noto Sans Mono,universal coverage,multilingual products,google,latin;latin-ext;vietnamese;cyrillic;cyrillic-ext;greek;greek-ext
+source-family,Source Serif 4,Source Sans 3,Source Code Pro,adobe-family harmony,technical publishing,google,latin;latin-ext;vietnamese;cyrillic;cyrillic-ext;greek
+vollkorn-open-sans,Vollkorn,Open Sans,,sturdy and readable,recipes and cookbooks,google,latin;latin-ext;vietnamese;cyrillic;cyrillic-ext;greek
+playpen-sans-mix,Playpen Sans,Nunito,,loose handwriting,education journaling,google,latin;latin-ext;vietnamese;cyrillic;cyrillic-ext
+charter-system,Charter,Charter,SF Mono,sturdy transitional serif,editorial in zero-download stacks,system,latin
+iowan-avenir,Iowan Old Style,Avenir Next,SF Mono,classic yet clean,reading apps without web fonts,system,latin
+georgia-gill,Georgia,Gill Sans,Menlo,old-school print,heritage brands without web fonts,system,latin
+palatino-optima,Palatino,Optima,,flared humanist,spa and boutique offline-safe pages,system,latin
+avenir-system,Avenir Next,Avenir Next,Menlo,friendly geometric,iOS-style marketing without downloads,system,latin
+segoe-system,Segoe UI,Segoe UI,Consolas,native Windows UI,enterprise internal tools on Windows,system,latin
+helvetica-neue-sys,Helvetica Neue,Helvetica Neue,Menlo,neutral swiss,print-style brochure sites,system,latin
