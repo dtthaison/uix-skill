@@ -45,14 +45,17 @@ bin/link-local.sh              # links the skill into ~/.claude/skills/uix-skill
 bin/link-local.sh --codex      # or into ~/.codex/skills/uix-skill
 ```
 
-The link points at your clone, so `git pull` updates the skill. `bin/link-local.sh --uninstall` removes the links. The script never overwrites a real folder or someone else's link.
+The link points at your clone, so `git pull` updates the skill. `bin/link-local.sh --uninstall` removes the Claude Code link; add `--codex` to remove the Codex one. The script never overwrites a real folder or someone else's link.
 
 Then, in your project, run `/uix-skill init` or say "uix init".
+
+**Tested on macOS.** The design guides and `rules.mjs` need only Node 22 and work anywhere. `check.mjs` looks for Chrome in the usual macOS places and on your PATH (Linux). If it can't find Chrome, set `CHROME_PATH` to the Chrome program, which you'll need on Windows. iPhone checks need a Mac with Xcode. The install script is a bash script; on Windows, link or copy `skills/uix-skill` into your agent's skills folder by hand.
 
 ## Layout
 
 ```
 bin/link-local.sh          # link the skill into Claude Code or Codex
+bin/fetch-rendered.mjs     # dev tool: print a page's text after its scripts run
 skills/uix-skill/
 ├─ SKILL.md                # the entry point the agent reads first
 ├─ references/             # loaded only when a task needs them: directions,
